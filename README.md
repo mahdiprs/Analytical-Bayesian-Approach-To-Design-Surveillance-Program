@@ -9,3 +9,6 @@ Survey results and economic considerations are also taken into account to suppor
 # How to run the models
 Two implementations of models are included for estimating various statistics developed in the paper. The first implementation uses numerical approximation
 for calculating the derivatives, and the second one uses symbolic algebra. To run the models see exampleNumerical.R and exampleSymbolic.R.
+
+# How to cite the codes
+[![DOI](https://zenodo.org/badge/414932521.svg)](https://zenodo.org/badge/latestdoi/414932521)
